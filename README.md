@@ -1,1 +1,1 @@
-# test-adatable-server
+# Terror-Trendz-Server
